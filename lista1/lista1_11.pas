@@ -8,9 +8,11 @@ begin
 	readln(a);
 	write('Informe o valor B: ');
 	readln(b);
+	
 	c := a;
 	a := b;
 	b := c;
+	
 	writeln(a);
 	writeln(b);
 end.

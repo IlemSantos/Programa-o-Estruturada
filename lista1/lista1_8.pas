@@ -1,4 +1,4 @@
-program conversao_CF;
+program conversao_FC;
 
 var
 	celsius, fahrenheit : real;
@@ -10,4 +10,5 @@ begin
 	celsius := (fahrenheit - 32) / (5/9);
 	
 	writeln('A temperatura em Celsius = ', celsius:0:2);
+	
 end.

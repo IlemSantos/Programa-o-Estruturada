@@ -10,6 +10,8 @@ begin
 	readln(b);
 	
 	c := 180 - (a + b);
+	
 	writeln('O angulo C do triangulo é igual a ', c);
 	readln;
+	
 end.

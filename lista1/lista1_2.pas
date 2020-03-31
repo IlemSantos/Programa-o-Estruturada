@@ -7,6 +7,7 @@ var
 
 begin
 	sum_nota := 0;
+	
 	for i := 1 to 4 do
 		begin
 			write('Informe a nota: ');
@@ -19,4 +20,5 @@ begin
     
     writeln('A media aritmetica : ', media:0:1);
     readln;
+    
 end.

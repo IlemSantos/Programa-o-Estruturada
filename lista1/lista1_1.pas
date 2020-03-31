@@ -1,4 +1,4 @@
-program nota_media;
+program soma_mult;
 
 var
    vetor : array[1..4] of real;

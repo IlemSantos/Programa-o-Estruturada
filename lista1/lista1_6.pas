@@ -3,7 +3,6 @@ program muv;
 var
    tempo, velocidade, distancia, litros : real;
 
-
 begin
 	write('Informe o tempo de viajem: ');
 	readln(tempo);

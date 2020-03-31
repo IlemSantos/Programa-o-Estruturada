@@ -10,4 +10,5 @@ begin
 	fahrenheit := (9 * celsius + 160) / 5;
 	
 	writeln('A temperatura em fahrenheit = ', fahrenheit:0:2);
+	
 end.

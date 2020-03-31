@@ -8,6 +8,7 @@ var
 begin
 	sum_prod := 0;
 	sum_peso := 0;
+	
 	writeln('Programa media ponderada');
 	for i := 1 to 3 do
 		begin
@@ -32,5 +33,6 @@ begin
 	media := sum_prod / sum_peso;
 	
 	writeln('A media ponderada é igual a ', media:0:1);
+	
 end.
 	
